@@ -1,0 +1,10 @@
+/Users/stefan.baumgartner/Projects/Rust/launchpad/target/debug/deps/version_check-969f6c6e6b9f0b01.rmeta: /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/stefan.baumgartner/Projects/Rust/launchpad/target/debug/deps/libversion_check-969f6c6e6b9f0b01.rlib: /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/stefan.baumgartner/Projects/Rust/launchpad/target/debug/deps/version_check-969f6c6e6b9f0b01.d: /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs:

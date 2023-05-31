@@ -1,0 +1,9 @@
+/Users/stefan.baumgartner/Projects/Rust/launchpad/target/debug/deps/serde_path_to_error-38a165ecda11f3c4.rmeta: /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/lib.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/de.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/path.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/ser.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/wrap.rs
+
+/Users/stefan.baumgartner/Projects/Rust/launchpad/target/debug/deps/serde_path_to_error-38a165ecda11f3c4.d: /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/lib.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/de.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/path.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/ser.rs /Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/wrap.rs
+
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/lib.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/de.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/path.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/ser.rs:
+/Users/stefan.baumgartner/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.11/src/wrap.rs:
