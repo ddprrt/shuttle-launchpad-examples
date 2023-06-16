@@ -1,1 +1,4 @@
 .DS_Store
+target
+Secrets.toml
+Secrets.dev.toml
