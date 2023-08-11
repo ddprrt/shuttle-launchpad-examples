@@ -1,0 +1,15 @@
+[package]
+name = "articledb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.6.18"
+axum-macros = "0.3.8"
+chrono = "0.4.26"
+serde = { version = "1.0.183", features = ["derive"] }
+shuttle-axum = "0.23.0"
+shuttle-runtime = "0.23.0"
+shuttle-shared-db = { version = "0.23.0", features = ["postgres-rustls"] }
+sqlx = { version = "0.7.1", features = ["postgres", "macros"] }
+tokio = "1.28.2"
